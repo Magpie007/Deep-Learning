@@ -2,6 +2,8 @@
 
 Machine learning is a branch of artifical intelligence. Deep learning is a sub-field of machine learning and neural netwoks is a sub-field of deep learning. 
 
+The way in which deep learning and machine learning differ is in how each alogrithm learns. Deep learnign atuotmates much of the feature extraction piece of the process, eliminating some of the manual human intervention and required and enable the use of large data sets. Machine learning is more dependent on human intervention to learn. Human experts determine the set of features to understand and differences between data inputs, usually requiring more structured data to learn. 
+
 [Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
 
 # Machine Learning
@@ -10,7 +12,9 @@ Machine learning is a branch of artifical intelligence. Deep learning is a sub-f
 
 [Stanford's Machine Learning Lecture Notes](http://cs229.stanford.edu/syllabus.html)
 
-[Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+[Machine Learning Course CS229](https://www.coursera.org/learn/machine-learning) offered by Standford
+
+[Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 Machine Learning Methods
   - Supvervised machine learning
