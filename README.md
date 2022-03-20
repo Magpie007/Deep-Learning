@@ -31,3 +31,29 @@ Machine Learning Methods
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 
 [Neural Networks](http://colah.github.io/) by Christopher Olah
+
+# Prerequisite
+- [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
+
+- [The Probability and Statistics Cookbook](http://statistics.zone/)
+
+- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [R Tutorial](https://www.cyclismo.org/tutorial/R/)
+
+- [Matlab Deep Learning Toolbox](https://ww2.mathworks.cn/help/deeplearning/index.html?lang=en)
+- Python
+  - [TensorFlow](https://www.tensorflow.org/)
+  - [Scikit-learn](https://scikit-learn.org/stable/)
+  - [pyTorch](https://pytorch.org/)
+  - [Keras](https://keras.io/)
+  - [MXNet](https://mxnet.apache.org/versions/1.9.0/) | [Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
+  - [Caffe](http://caffe.berkeleyvision.org/)
+ 
+ - Cheat Sheet
+   - [Matlab Data Science and Machine Learning](https://www.mathworks.com/campaigns/offers/data-science-cheat-sheets.html)
+   - [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) |[Github](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook)
+   - [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
+
+
+ 
