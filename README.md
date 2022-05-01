@@ -55,5 +55,9 @@ Machine Learning Methods
    - [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) |[Github](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook)
    - [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
 
+# 100-Days-Of-ML-Code
+
+- [Github](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [Github-cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+
 
  
