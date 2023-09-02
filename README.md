@@ -24,13 +24,16 @@ Machine Learning Methods
 
 # Deep Learning
 
-[Neural Network and Deep Learning](https://github.com/nndl) by Xipeng Qiu
+[Artifical Intelligence: A Modern Approach](https://github.com/aimacode) by Stuart Russell | Peter Norvig
 
 [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
+[Neural Networks](http://colah.github.io/) by Christopher Olah
+
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 
-[Neural Networks](http://colah.github.io/) by Christopher Olah
+[Neural Network and Deep Learning](https://github.com/nndl) by Xipeng Qiu
+
 
 # Prerequisite
 - [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
@@ -59,5 +62,6 @@ Machine Learning Methods
 
 - [Github](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [Github-cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
-
+# Trends in Innovation and Technology
+ - [Google I/O Extended 2023 North America](https://gdg.community.dev/events/details/google-gdg-cloud-seattle-presents-google-io-extended-2023-north-america/)
  
