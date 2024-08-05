@@ -8,19 +8,15 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 # Machine Learning
 
+[Andrew Ng's Introductory Machine Learning](https://www.coursera.org/learn/machine-learning?action=enroll)
+
+[Yaser Abu-Mostafa's Machine Learning Course](https://work.caltech.edu/telecourse.html) 
+
+[Michael Littman and Charles Isbell's Introductory Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+
+[Trevor Hastie and Rob Tibshirani's Statistical Learning MOCC](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
 [Taxonomy of Machine Learning](https://www.aminer.cn/ml_taxonomy)
-
-[Stanford's Machine Learning Lecture Notes](http://cs229.stanford.edu/syllabus.html)
-
-[Machine Learning Course CS229](https://www.coursera.org/learn/machine-learning) offered by Standford
-
-[Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-
-Machine Learning Methods
-  - Supvervised machine learning
-  - Unsupverised machine learning
-  - Semi-supervised learning
-
 
 # Deep Learning
 
