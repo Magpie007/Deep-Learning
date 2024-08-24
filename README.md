@@ -8,7 +8,9 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 # Machine Learning
 
-[Andrew Ng's Introductory Machine Learning](https://www.coursera.org/learn/machine-learning?action=enroll)
+[ML - YouTube Courses](https://github.com/SilentDrift/ML-Courses?tab=readme-ov-file#stanford-cs229-machine-learning)
+
+[Andrew Ng's Introductory Machine Learning](https://www.coursera.org/learn/machine-learning?action=enroll) | [Standford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [Yaser Abu-Mostafa's Machine Learning Course](https://work.caltech.edu/telecourse.html) 
 
@@ -58,6 +60,6 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 - [Github](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [Github-cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
-# Trends in Innovation and Technology
- - [Google I/O Extended 2023 North America](https://gdg.community.dev/events/details/google-gdg-cloud-seattle-presents-google-io-extended-2023-north-america/)
+# Awesome LLM 
+ - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
  
