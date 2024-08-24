@@ -42,7 +42,6 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 - [R Tutorial](https://www.cyclismo.org/tutorial/R/)
 
-- [Matlab Deep Learning Toolbox](https://ww2.mathworks.cn/help/deeplearning/index.html?lang=en)
 - Python
   - [TensorFlow](https://www.tensorflow.org/)
   - [Scikit-learn](https://scikit-learn.org/stable/)
