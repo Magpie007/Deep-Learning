@@ -34,7 +34,7 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 
 # Prerequisite
-- [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
+- [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
 
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
