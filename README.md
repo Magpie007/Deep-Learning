@@ -44,8 +44,7 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 - Python
   - [TensorFlow](https://www.tensorflow.org/)
-  - [Scikit-learn](https://scikit-learn.org/stable/)
-  - [pyTorch](https://pytorch.org/)
+   - [pyTorch](https://pytorch.org/)
   - [Keras](https://keras.io/)
   - [MXNet](https://mxnet.apache.org/versions/1.9.0/) | [Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
   - [Caffe](http://caffe.berkeleyvision.org/)
