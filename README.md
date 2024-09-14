@@ -6,8 +6,7 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 [Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
 
-# Machine Learning
-
+# Machine Learning (ML)
 [ML - YouTube Courses](https://github.com/SilentDrift/ML-Courses?tab=readme-ov-file#stanford-cs229-machine-learning)
 
 [Andrew Ng's Introductory Machine Learning](https://www.coursera.org/learn/machine-learning?action=enroll) | [Standford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -21,7 +20,6 @@ The way in which deep learning and machine learning differ is in how each alogri
 [Taxonomy of Machine Learning](https://www.aminer.cn/ml_taxonomy)
 
 # Deep Learning
-
 [Artifical Intelligence: A Modern Approach](https://github.com/aimacode) by Stuart Russell | Peter Norvig
 
 [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
@@ -32,26 +30,9 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 [Neural Network and Deep Learning](https://github.com/nndl) by Xipeng Qiu
 
-
-# Prerequisite
+# Linear Algebra, Statistics, and Calculus for ML
 - [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
-
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
-
-- [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-- [R Tutorial](https://www.cyclismo.org/tutorial/R/)
-
-- Python
-  - [TensorFlow](https://www.tensorflow.org/)
-   - [pyTorch](https://pytorch.org/)
-  - [Keras](https://keras.io/)
-  - [MXNet](https://mxnet.apache.org/versions/1.9.0/) | [Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
-  - [Caffe](http://caffe.berkeleyvision.org/)
- 
- - Cheat Sheet
-   - [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) |[Github](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook)
-   - [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
 
 # 100-Days-Of-ML-Code
 
