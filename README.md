@@ -32,6 +32,7 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 # Linear Algebra, Statistics, and Calculus for ML
 - [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
+- [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/) | [Notes](https://lam8da.github.io/categories/#%E6%95%B0%E5%AD%A6&%E7%89%A9%E7%90%86)
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
 # 100-Days-Of-ML-Code
