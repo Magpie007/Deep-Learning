@@ -35,10 +35,10 @@ The way in which deep learning and machine learning differ is in how each alogri
 - [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/) | [Notes](https://lam8da.github.io/categories/#%E6%95%B0%E5%AD%A6&%E7%89%A9%E7%90%86)
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
-# 100-Days-Of-ML-Code
+# Resources
 
-- [Github](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [Github-cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
-
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [Learning Materials](https://sgfin.github.io/learning-resources/)
 # Awesome LLM 
  - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
  
