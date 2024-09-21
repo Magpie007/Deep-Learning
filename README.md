@@ -39,7 +39,7 @@ The way in which deep learning and machine learning differ is in how each alogri
 
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 - [Learning Materials](https://sgfin.github.io/learning-resources/)
-- [Dive Into Deep Learning](https://zh.d2l.ai/index.html)
+- [Dive Into Deep Learning](https://d2l.ai/) | [cn](https://zh.d2l.ai/index.html)
 # Awesome LLM 
  - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
  
