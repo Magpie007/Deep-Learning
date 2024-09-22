@@ -27,14 +27,16 @@
 [Neural Network and Deep Learning](https://github.com/nndl) by Xipeng Qiu
 
 ## Feature Engineering
-[Feature Engineering for Machine Learning Models](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
-[Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
+- [Feature Engineering for Machine Learning Models](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
+- [Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
+
+  [What is Feature Engineering](https://bbs.pinggu.org/thread-11742198-1-1.html)
 
 ## Linear Algebra, Statistics, and Calculus for ML
 - [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
 - [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/) | [Notes](https://lam8da.github.io/categories/#%E6%95%B0%E5%AD%A6&%E7%89%A9%E7%90%86)
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
-[What is Feature Engineering](https://bbs.pinggu.org/thread-11742198-1-1.html)
+
 ## Books
 - [Dive Into Deep Learning](https://d2l.ai/)
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
