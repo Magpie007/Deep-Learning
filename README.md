@@ -1,11 +1,7 @@
-# Artifical Intelligence (AI)
-
-Machine learning is a branch of artifical intelligence. Deep learning is a sub-field of machine learning and neural netwoks is a sub-field of deep learning. 
-
-The way in which deep learning and machine learning differ is in how each alogrithm learns. Deep learnign automates much of the feature extraction piece of the process, eliminating some of the manual human intervention required and enabling the use of large data sets. Machine learning is more dependent on human intervention to learn. Human experts determine the set of features to understand and the differences between data inputs, usually requiring more structured data to learn. 
-
-[Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
-
+# An Introduction to Statistical Learning
+1. [An Introduction to Statistical Learning](https://www.statlearning.com/)
+2. [ISL with R](https://www.statlearning.com/resources-second-edition)
+3. [ISL with Python](https://www.statlearning.com/resources-python) | [Contributor](https://github.com/a-martyn/ISL-python)
 # Machine Learning (ML)
 [ML - YouTube Courses](https://github.com/SilentDrift/ML-Courses?tab=readme-ov-file#stanford-cs229-machine-learning)
 
@@ -36,9 +32,10 @@ The way in which deep learning and machine learning differ is in how each alogri
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
 # Resources
-
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 - [Learning Materials](https://sgfin.github.io/learning-resources/)
+- [Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
+# Books
 - [Dive Into Deep Learning](https://d2l.ai/) 
 # Awesome LLM 
  - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
