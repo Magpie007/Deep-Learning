@@ -32,9 +32,10 @@
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
 # Resources
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
-- [Learning Materials](https://sgfin.github.io/learning-resources/)
 - [Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [Learning Materials 1](https://sgfin.github.io/learning-resources/) | [Learning Materials 2](https://github.com/saranshbht/msc-books/tree/master)
+
 # Books
 - [Dive Into Deep Learning](https://d2l.ai/) 
 # Awesome LLM 
