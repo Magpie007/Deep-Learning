@@ -1,7 +1,7 @@
 # An Introduction to Statistical Learning
-### $1.$ [An Introduction to Statistical Learning](https://www.statlearning.com/)
-### $2.$ [ISL with R](https://www.statlearning.com/resources-second-edition)
-### $3.$ [ISL with Python](https://www.statlearning.com/resources-python) | [Contributor](https://github.com/a-martyn/ISL-python)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [ISL with R](https://www.statlearning.com/resources-second-edition)
+- [ISL with Python](https://www.statlearning.com/resources-python) | [Contributor](https://github.com/a-martyn/ISL-python)
 # Machine Learning (ML)
 [ML - YouTube Courses](https://github.com/SilentDrift/ML-Courses?tab=readme-ov-file#stanford-cs229-machine-learning)
 
