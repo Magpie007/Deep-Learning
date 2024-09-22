@@ -35,9 +35,9 @@
 - [Cheatsheets - Machine Learning, Deep Learning, and Artifical Intelligence](https://github.com/afshinea)
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | [cn](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 - [Learning Materials 1](https://sgfin.github.io/learning-resources/) | [Learning Materials 2](https://github.com/saranshbht/msc-books/tree/master)
-
 # Books
-- [Dive Into Deep Learning](https://d2l.ai/) 
+- [Dive Into Deep Learning](https://d2l.ai/)
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 # Awesome LLM 
  - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
  
