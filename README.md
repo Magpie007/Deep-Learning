@@ -29,8 +29,7 @@
 ## Feature Engineering
 - [Feature Engineering for Machine Learning Models](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
 - [Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
-
-  [What is Feature Engineering](https://bbs.pinggu.org/thread-11742198-1-1.html)
+- [What is Feature Engineering](https://bbs.pinggu.org/thread-11742198-1-1.html)
 
 ## Linear Algebra, Statistics, and Calculus for ML
 - [MIT Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) | [Notes](https://github.com/zlotus/notes-linear-algebra)
