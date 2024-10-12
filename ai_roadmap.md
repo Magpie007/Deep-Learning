@@ -6,6 +6,8 @@
 
 [ai_learning](https://github.com/apachecn)
 
+[Visualizing Mathematics for Machine Learning](https://github.com/Visualize-ML)
+
 ### Git and GitHub
 
 [An intro to Git and GitHub](https://github.com/apachecn/Interview/tree/master/docs)
