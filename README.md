@@ -16,15 +16,13 @@
 [Taxonomy of Machine Learning](https://www.aminer.cn/ml_taxonomy)
 
 ## Deep Learning
-[Artifical Intelligence: A Modern Approach](https://github.com/aimacode) by Stuart Russell | Peter Norvig
-
 [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
-[Neural Networks](http://colah.github.io/) by Christopher Olah
+[Artifical Intelligence: A Modern Approach](https://github.com/aimacode) by Stuart Russell | Peter Norvig
 
-[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 
-[Neural Network and Deep Learning](https://github.com/nndl) by Xipeng Qiu
+[Dive Into Deep Learning](https://d2l.ai/) by Aston Zhang
 
 ## Feature Engineering
 - [Feature Engineering for Machine Learning Models](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
@@ -37,8 +35,7 @@
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
 ## Books
-- [Dive Into Deep Learning](https://d2l.ai/)
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*1ycsr27*_ga*MTA5MjMyMDM1Ny4xNzI0MjQwMzU0*_ga_092EL089CH*MTcyNjk4Mzc3NS45LjEuMTcyNjk4NDIyMC41Ni4wLjA.) | [Example Code](https://github.com/ageron/handson-ml3)
 
 ## Awesome LLM 
  - [Google I/O Extended 2023 North America](https://www.youtube.com/watch?v=wKu2FORPano)
