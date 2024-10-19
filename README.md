@@ -31,7 +31,7 @@
 - [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/) | [Notes](https://lam8da.github.io/categories/#%E6%95%B0%E5%AD%A6&%E7%89%A9%E7%90%86)
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
 
-## Books
+## Reading Lists
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*1ycsr27*_ga*MTA5MjMyMDM1Ny4xNzI0MjQwMzU0*_ga_092EL089CH*MTcyNjk4Mzc3NS45LjEuMTcyNjk4NDIyMC41Ni4wLjA.) | [Example Code](https://github.com/ageron/handson-ml3)
 - [Python Machine Learning by Example](https://www.amazon.com/Python-Machine-Learning-Example-real-world/dp/1835085628)
 
