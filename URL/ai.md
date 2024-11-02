@@ -19,6 +19,8 @@
  吴恩达深度学习：deeplearning.ai
 ```
 [菜菜的机器学习sklearn](https://github.com/MemorialCheng/deep-learning-from-scratch/tree/master)
+
+[关于深度学习](https://bbs.pinggu.org/thread-4642920-1-1.html)
 ### Git and GitHub
 
 [An intro to Git and GitHub](https://github.com/apachecn/Interview/tree/master/docs)
