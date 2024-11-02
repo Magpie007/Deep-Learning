@@ -21,6 +21,8 @@
 
 [Dive Into Deep Learning](https://d2l.ai/) by Aston Zhang
 
+[Neural Networks and Deep Learning by 邱锡鹏](https://nndl.github.io/nndl-book.pdf) | [About Books](https://nndl.github.io/) | [nndl](https://github.com/nndl) | [Home Page](https://xpqiu.github.io/) 
+
 ## Feature Engineering
 - [Feature Engineering for Machine Learning Models](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
 - [Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
